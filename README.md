@@ -1,1 +1,1 @@
-# Head-detection
+# Smart Classroom
